@@ -17,6 +17,7 @@ public class Principal {
         int nPersonas = sc.nextInt();
         sc.nextLine(); // Consumir salto de línea
 
+
         Persona[] personas = new Persona[nPersonas];
 
         for (int i = 0; i < nPersonas; i++) {
