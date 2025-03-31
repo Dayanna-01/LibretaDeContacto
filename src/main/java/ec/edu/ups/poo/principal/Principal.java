@@ -13,6 +13,7 @@ public class Principal {
         //public static final int YEAR = 1; Constantes en MAYUSCULAS y si son dos palabras de usa guion bajo
 
         // Registro de personas
+        //cambio uno
         System.out.print("Texto de edicion para poder gacer un commit");
         System.out.println("Ingrese cuántas personas desea registrar: ");
         int nPersonas = sc.nextInt();
